@@ -4,5 +4,5 @@ Two input files are needed:
 regionmap.csv   
 result.csv   
 
-Both can be obtained from TMEA site: https://align.tmea.org/align_2022/index.php.   
+regionmap.csv can be obtained from TMEA site: https://align.tmea.org/align_2022/index.php.   
 result.csv is not commited in repo due to privacy concern, but results for all instrument can be obtained from https://www.tmea.org/all-state/audition-results/
