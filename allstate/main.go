@@ -58,7 +58,6 @@ func main() {
 		}
 		isdResultmap[record[4]]++
 	}
-	//fmt.Println(regionmap)
 
 	/*
 		A - Regions 1, *6/7, 16, 22
